@@ -1,3 +1,3 @@
-- 🥀@farneses
-- 🌺 Android 
-- 🌱 I use Linux
+<center>
+# Hello, I'm Farnese
+</center>
